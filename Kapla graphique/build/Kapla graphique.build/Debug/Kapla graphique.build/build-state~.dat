@@ -1,0 +1,431 @@
+TKapla graphique
+v7
+r0
+t338810775.040221
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/Info.plist" Info.plist
+cCpResource "build/Debug/Kapla graphique.app/Contents/Resources/comic.ttf" comic.ttf
+cCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/camera.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Cursor.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/main.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/fonctions.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/camera.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Cursor.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/main.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Kapla graphique" normal x86_64
+cCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/fonctions.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Kapla graphique" normal i386
+cCreateUniversalBinary "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/MacOS/Kapla graphique" normal "x86_64 i386"
+cPBXCp "build/Debug/Kapla graphique.app/Contents/Frameworks/sfml-system.framework" /Library/Frameworks/sfml-system.framework
+cPBXCp "build/Debug/Kapla graphique.app/Contents/Frameworks/sfml-window.framework" /Library/Frameworks/sfml-window.framework
+cPBXCp "build/Debug/Kapla graphique.app/Contents/Frameworks/sfml-graphics.framework" /Library/Frameworks/sfml-graphics.framework
+cTouch "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app"
+
+N/Developer-3.2.6/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/SFML.framework/Headers/Graphics.hpp
+c000000004BBA051800000000000006DA
+t1270482200
+s1754
+
+N/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/SFML.framework/Headers/Window.hpp
+c000000004BBA0518000000000000069A
+t1270482200
+s1690
+
+N/Developer-3.2.6/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer-3.2.6/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer-3.2.6/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer-3.2.6/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Library/Frameworks/sfml-graphics.framework
+c000000004BBA051700000000000000AA
+t1270482199
+s170
+
+N/Library/Frameworks/sfml-graphics.framework/sfml-graphics
+c000000004BBA051800000000004FCC40
+t1270482200
+s5229632
+
+N/Library/Frameworks/sfml-system.framework
+c000000004BBA051800000000000000AA
+t1270482200
+s170
+
+N/Library/Frameworks/sfml-system.framework/sfml-system
+c000000004BBA051800000000001C45D8
+t1270482200
+s1852888
+
+N/Library/Frameworks/sfml-window.framework
+c000000004BBA051800000000000000AA
+t1270482200
+s170
+
+N/Library/Frameworks/sfml-window.framework/sfml-window
+c000000004BBA051800000000001FC530
+t1270482200
+s2082096
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.cpp
+c000000004E80C3300000000000000480
+t1317061424
+s1152
+i"Cursor.h"
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.h
+c000000004E7F00B1000000000000017D
+t1316946097
+s381
+i<SFML/Window.hpp>
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/OpenGL.framework/OpenGL
+c000000004E43ADCD000000000002D2A0
+t1313058253
+s184992
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app
+t1317117975
+s102
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/Frameworks/sfml-graphics.framework
+t1317117974
+s170
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/Frameworks/sfml-system.framework
+t1317117974
+s170
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/Frameworks/sfml-window.framework
+t1317117974
+s170
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/Info.plist
+t1317117970
+s1017
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/MacOS/Kapla graphique
+t1317117974
+s65956
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/PkgInfo
+t1317117970
+s8
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/Resources/comic.ttf
+t1317117971
+s127596
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Cursor.o
+t1317117974
+s44412
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Kapla graphique
+t1317117974
+s29092
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Kapla graphique.LinkFileList
+c000000004E81A0120000000000000231
+t1317117970
+s561
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/camera.o
+t1317117974
+s49936
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/fonctions.o
+t1317117974
+s50676
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/main.o
+t1317117974
+s95596
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Cursor.o
+t1317117973
+s45096
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Kapla graphique
+t1317117974
+s30064
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Kapla graphique.LinkFileList
+c000000004E81A0120000000000000239
+t1317117970
+s569
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/camera.o
+t1317117973
+s50776
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/fonctions.o
+t1317117973
+s51132
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/main.o
+t1317117973
+s95960
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.cpp
+c000000004E80CB870000000000000D8E
+t1317063559
+s3470
+i"camera.h"
+i<math.h>
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.h
+c000000004E7EFE0200000000000004C6
+t1316945410
+s1222
+i<SFML/Window.hpp>
+i"Cursor.h"
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/comic.ttf
+c0000000042D0280A000000000001F26C
+t1120937994
+s127596
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.cpp
+c000000004E719CE700000000000003DE
+t1316068583
+s990
+i"fonctions.h"
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.h
+c000000004E7CDC260000000000000204
+t1316805670
+s516
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<iostream>
+i<SFML/Window.hpp>
+i<SFML/Graphics.hpp>
+i<math.h>
+i"Cursor.h"
+i"camera.h"
+i<vector>
+
+N/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/main.cpp
+c000000004E80E8400000000000001753
+t1317070912
+s5971
+i"fonctions.h"
+
+NInfo.plist
+c000000004E71AA16000000000000027A
+t1316071958
+s634
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies338810770#338810770#0(308"[WARN]Mac OS X deployment target '10.7' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.[WARN]Mac OS X deployment target '10.7' for architecture 'i386' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.2(22@148"Mac OS X deployment target '10.7' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.338810770#18446744073709551615#0#0(1@0"0(22@146"Mac OS X deployment target '10.7' for architecture 'i386' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.338810770#18446744073709551615#0#0(1@0"0(0#1#0"4498462016#0"0#
+
+CCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Cursor.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s338810773.527388
+e338810774.124094
+r1
+xCompileC
+xbuild/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Cursor.o
+x/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.cpp338810773#338810774#0(0"0(0#0#65"/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.cpp4498460304#2816"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    setenv LANG en_US.US-ASCII    /Developer-3.2.6/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.7 -gdwarf-2 -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-generated-files.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-own-target-headers.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-all-target-headers.hmap" -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-project-headers.hmap" "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug" -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks -F/Users/Ulala/Library/Frameworks -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/include" -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/OpenGL.framework -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletDynamics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletSoftBody.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/LinearMath.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-audio.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-graphics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-network.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-system.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-window.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/SFML.framework "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources/i386" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources" -c "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.cpp" -o "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Cursor.o"0#
+
+CCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/camera.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s338810773.524651
+e338810774.129955
+r1
+xCompileC
+xbuild/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/camera.o
+x/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.cpp338810773#338810774#0(0"0(0#0#65"/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.cpp4498460304#2816"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    setenv LANG en_US.US-ASCII    /Developer-3.2.6/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.7 -gdwarf-2 -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-generated-files.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-own-target-headers.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-all-target-headers.hmap" -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-project-headers.hmap" "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug" -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks -F/Users/Ulala/Library/Frameworks -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/include" -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/OpenGL.framework -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletDynamics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletSoftBody.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/LinearMath.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-audio.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-graphics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-network.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-system.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-window.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/SFML.framework "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources/i386" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources" -c "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.cpp" -o "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/camera.o"0#
+
+CCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/fonctions.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s338810774.124330
+e338810774.587088
+r1
+xCompileC
+xbuild/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/fonctions.o
+x/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.cpp338810774#338810774#0(0"0(0#0#68"/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.cpp4498460304#2822"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    setenv LANG en_US.US-ASCII    /Developer-3.2.6/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.7 -gdwarf-2 -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-generated-files.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-own-target-headers.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-all-target-headers.hmap" -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-project-headers.hmap" "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug" -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks -F/Users/Ulala/Library/Frameworks -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/include" -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/OpenGL.framework -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletDynamics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletSoftBody.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/LinearMath.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-audio.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-graphics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-network.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-system.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-window.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/SFML.framework "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources/i386" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources" -c "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.cpp" -o "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/fonctions.o"0#
+
+CCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/main.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s338810773.569927
+e338810774.236478
+r1
+xCompileC
+xbuild/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/main.o
+x/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/Ulala/github/Kapla_graphic_part/Kapla graphique/main.cpp338810773#338810774#0(0"0(0#0#63"/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/main.cpp4498460304#2812"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    setenv LANG en_US.US-ASCII    /Developer-3.2.6/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.7 -gdwarf-2 -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-generated-files.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-own-target-headers.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-all-target-headers.hmap" -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-project-headers.hmap" "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug" -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks -F/Users/Ulala/Library/Frameworks -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/include" -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/OpenGL.framework -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletDynamics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletSoftBody.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/LinearMath.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-audio.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-graphics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-network.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-system.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-window.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/SFML.framework "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources/i386" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources" -c "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/main.cpp" -o "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Cursor.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s338810771.062949
+e338810773.527289
+r1
+xCompileC
+xbuild/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Cursor.o
+x/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.cpp338810771#338810773#0(0"0(0#0#65"/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.cpp4498460304#2822"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    setenv LANG en_US.US-ASCII    /Developer-3.2.6/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.7 -gdwarf-2 -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-generated-files.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-own-target-headers.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-all-target-headers.hmap" -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-project-headers.hmap" "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug" -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks -F/Users/Ulala/Library/Frameworks -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/include" -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/OpenGL.framework -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletDynamics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletSoftBody.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/LinearMath.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-audio.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-graphics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-network.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-system.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-window.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/SFML.framework "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources/x86_64" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources" -c "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Cursor.cpp" -o "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Cursor.o"0#
+
+CCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/camera.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s338810771.061846
+e338810773.524475
+r1
+xCompileC
+xbuild/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/camera.o
+x/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.cpp338810771#338810773#0(0"0(0#0#65"/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.cpp4498460304#2822"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    setenv LANG en_US.US-ASCII    /Developer-3.2.6/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.7 -gdwarf-2 -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-generated-files.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-own-target-headers.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-all-target-headers.hmap" -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-project-headers.hmap" "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug" -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks -F/Users/Ulala/Library/Frameworks -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/include" -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/OpenGL.framework -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletDynamics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletSoftBody.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/LinearMath.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-audio.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-graphics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-network.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-system.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-window.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/SFML.framework "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources/x86_64" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources" -c "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/camera.cpp" -o "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/camera.o"0#
+
+CCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/fonctions.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s338810771.064845
+e338810773.569815
+r1
+xCompileC
+xbuild/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/fonctions.o
+x/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.cpp338810771#338810773#0(0"0(0#0#68"/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.cpp4498460304#2828"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    setenv LANG en_US.US-ASCII    /Developer-3.2.6/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.7 -gdwarf-2 -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-generated-files.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-own-target-headers.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-all-target-headers.hmap" -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-project-headers.hmap" "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug" -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks -F/Users/Ulala/Library/Frameworks -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/include" -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/OpenGL.framework -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletDynamics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletSoftBody.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/LinearMath.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-audio.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-graphics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-network.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-system.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-window.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/SFML.framework "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources/x86_64" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources" -c "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/fonctions.cpp" -o "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/fonctions.o"0#
+
+CCompileC "build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/main.o" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s338810771.063894
+e338810773.653468
+r1
+xCompileC
+xbuild/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/main.o
+x/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/Ulala/github/Kapla_graphic_part/Kapla graphique/main.cpp338810771#338810773#0(0"0(0#0#63"/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/main.cpp4498460304#2818"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    setenv LANG en_US.US-ASCII    /Developer-3.2.6/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.7 -gdwarf-2 -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-generated-files.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-own-target-headers.hmap" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-all-target-headers.hmap" -iquote "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Kapla graphique-project-headers.hmap" "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug" -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks -F/Users/Ulala/Library/Frameworks -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/include" -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/OpenGL.framework -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/Ulala/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletDynamics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/BulletSoftBody.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/LinearMath.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-audio.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-graphics.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-network.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-system.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/sfml-window.framework -I/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks/SFML.framework "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources/x86_64" "-I/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/DerivedSources" -c "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/main.cpp" -o "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/main.o"0#
+
+CCpResource "build/Debug/Kapla graphique.app/Contents/Resources/comic.ttf" comic.ttf
+s338810770.967076
+e338810771.061619
+r1
+xCpResource
+xbuild/Debug/Kapla graphique.app/Contents/Resources/comic.ttf
+xcomic.ttf
+lSLF07#2@14"Copy comic.ttf338810770#338810771#0(0"0(0#0#64"/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/comic.ttf4498460304#407"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    /Developer-3.2.6/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/comic.ttf" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/Resources"0#
+
+CCreateUniversalBinary "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/MacOS/Kapla graphique" normal "x86_64 i386"
+s338810774.767301
+e338810774.838609
+r1
+xCreateUniversalBinary
+x/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/MacOS/Kapla graphique
+xnormal
+xx86_64 i386
+lSLF07#2@107"CreateUniversalBinary "build/Debug/Kapla graphique.app/Contents/MacOS/Kapla graphique" normal "x86_64 i386"338810774#338810774#0(0"0(0#0#66"/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/x86_64 i3864498460304#518"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    /usr/bin/lipo -create "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Kapla graphique" "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Kapla graphique" -output "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/MacOS/Kapla graphique"0#
+
+CLd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Kapla graphique" normal i386
+s338810774.587180
+e338810774.767184
+r1
+xLd
+x/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Kapla graphique
+xnormal
+xi386
+old: warning: directory '/Users/Ulala/Library/Frameworks' following -F not found
+lSLF07#2@151"Link /Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Kapla graphique338810774#338810774#0(80"ld: warning: directory '/Users/Ulala/Library/Frameworks' following -F not found1(22@66"Directory '/Users/Ulala/Library/Frameworks' following -F not found338810774#0#80#0(6@0"338810774#0#0#0#0#0"0(0#0#0"4498460304#999"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Developer-3.2.6/usr/bin/g++-4.2 -arch i386 -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk "-L/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug" "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug" -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks -F/Users/Ulala/Library/Frameworks -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique" -filelist "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Kapla graphique.LinkFileList" -mmacosx-version-min=10.7 -framework sfml-graphics -framework sfml-system -framework sfml-window -framework OpenGL -prebind -o "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/i386/Kapla graphique"0#
+
+CLd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Kapla graphique" normal x86_64
+s338810773.653567
+e338810774.371513
+r1
+xLd
+x/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Kapla graphique
+xnormal
+xx86_64
+old: warning: directory '/Users/Ulala/Library/Frameworks' following -F not found
+lSLF07#2@153"Link /Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Kapla graphique338810773#338810774#0(80"ld: warning: directory '/Users/Ulala/Library/Frameworks' following -F not found1(22@66"Directory '/Users/Ulala/Library/Frameworks' following -F not found338810774#0#80#0(6@0"338810774#0#0#0#0#0"0(0#0#0"4498460304#1005"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Developer-3.2.6/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer-3.2.6/SDKs/MacOSX10.6.sdk "-L/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug" "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug" -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks -F/Users/Ulala/Library/Frameworks -F/Developer-3.2.6/SDKs/MacOSX10.6.sdk/Library/Frameworks "-F/Users/Ulala/github/Kapla_graphic_part/Kapla graphique" -filelist "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Kapla graphique.LinkFileList" -mmacosx-version-min=10.7 -framework sfml-graphics -framework sfml-system -framework sfml-window -framework OpenGL -prebind -o "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Kapla graphique.build/Debug/Kapla graphique.build/Objects-normal/x86_64/Kapla graphique"0#
+
+CPBXCp "build/Debug/Kapla graphique.app/Contents/Frameworks/sfml-graphics.framework" /Library/Frameworks/sfml-graphics.framework
+s338810774.840360
+e338810774.957044
+r1
+xPBXCp
+xbuild/Debug/Kapla graphique.app/Contents/Frameworks/sfml-graphics.framework
+x/Library/Frameworks/sfml-graphics.framework
+lSLF07#2@48"Copy /Library/Frameworks/sfml-graphics.framework338810774#338810774#0(0"0(0#0#43"/Library/Frameworks/sfml-graphics.framework4498460304#385"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    /Developer-3.2.6/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Library/Frameworks/sfml-graphics.framework "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/Frameworks"0#
+
+CPBXCp "build/Debug/Kapla graphique.app/Contents/Frameworks/sfml-system.framework" /Library/Frameworks/sfml-system.framework
+s338810774.838758
+e338810774.908918
+r1
+xPBXCp
+xbuild/Debug/Kapla graphique.app/Contents/Frameworks/sfml-system.framework
+x/Library/Frameworks/sfml-system.framework
+lSLF07#2@46"Copy /Library/Frameworks/sfml-system.framework338810774#338810774#0(0"0(0#0#41"/Library/Frameworks/sfml-system.framework4498460304#383"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    /Developer-3.2.6/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Library/Frameworks/sfml-system.framework "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/Frameworks"0#
+
+CPBXCp "build/Debug/Kapla graphique.app/Contents/Frameworks/sfml-window.framework" /Library/Frameworks/sfml-window.framework
+s338810774.839741
+e338810774.912847
+r1
+xPBXCp
+xbuild/Debug/Kapla graphique.app/Contents/Frameworks/sfml-window.framework
+x/Library/Frameworks/sfml-window.framework
+lSLF07#2@46"Copy /Library/Frameworks/sfml-window.framework338810774#338810774#0(0"0(0#0#41"/Library/Frameworks/sfml-window.framework4498460304#383"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    /Developer-3.2.6/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Library/Frameworks/sfml-window.framework "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/Frameworks"0#
+
+CProcessInfoPlistFile "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/Info.plist" Info.plist
+s338810770.963695
+e338810770.967003
+r1
+xProcessInfoPlistFile
+x/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist338810770#338810770#0(0"0(0#0#65"/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/Info.plist4498460416#372"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app/Contents/Info.plist"0#
+
+CTouch "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app"
+s338810774.957143
+e338810775.040068
+r1
+xTouch
+x/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app
+lSLF07#2@92"Touch /Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app338810774#338810775#0(0"0(0#0#0"4498460304#175"    cd "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique"    /usr/bin/touch -c "/Users/Ulala/github/Kapla_graphic_part/Kapla graphique/build/Debug/Kapla graphique.app"0#
+
